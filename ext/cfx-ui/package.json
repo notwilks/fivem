@@ -65,7 +65,7 @@
     "nl2br-pipe": "^1.2.3",
     "node-forge": "^0.10.0",
     "path": "^0.12.7",
-    "protobufjs": "^6.10.2",
+    "protobufjs": "^6.10.3",
     "query-string": "^6.13.6",
     "reconnecting-websocket": "^4.4.0",
     "rehype": "^11.0.0",
